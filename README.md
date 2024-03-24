@@ -25,6 +25,8 @@ Convidamos a comunidade de desenvolvedores, traders, e entusiastas do mercado fi
 - **Fique atualizado**: Acompanhe as atualizações e novas adições ao repositório para estar sempre à frente no mercado.
 
 ## Publicações:
+### Backetesting:
 - [**1.0 - Backtesting Manual:**](Criação_de_Bots/backetesting/1.0_Backtesting_Manual.md) No mundo dos investimentos e do trading, uma das chaves para o sucesso é tomar decisões baseadas em estratégias sólidas e testadas. Uma forma de testar essas estratégias antes de colocar dinheiro real em jogo é através do backtesting. Hoje, vamos focar numa abordagem acessível a todos, inclusive àqueles que são novos neste assunto: o backtesting manu
 
 
+- [**2.0 - Backtesting Mecânico:**](Criação_de_Bots/backetesting/2.0_Backtesting_Mecanico.md) Você já imaginou ter uma máquina do tempo para investir no mercado financeiro? Saber de antemão quais estratégias teriam funcionado melhor no passado? Bem, é aqui que entra o conceito fascinante de backtesting mecânico. Este artigo visa desmistificar o backtesting mecânico e explicar sua importância de maneira simples para quem não está familiarizado com o assunto.
